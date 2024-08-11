@@ -1,49 +1,104 @@
-👋 Hi, I'm Pradyuman Sarswat
-🌐 Full Stack Developer | India 🇮🇳
+Hello, I'm Pradyuman Sarswat! 👋
+
+Full Stack Developer | MERN Stack Enthusiast | Open to Internships
+
+Welcome to my GitHub profile! I’m a Full Stack Developer based in India, passionate about building innovative and efficient web applications. With a solid foundation in the MERN stack and a keen interest in continuous learning, I’m always excited to tackle new challenges and contribute to meaningful projects.
 
 
-Welcome to my GitHub profile!
-I'm Pradyuman, a passionate Full Stack Developer with a keen interest in building scalable web applications and contributing to open-source projects.
+🛠️ My Toolkit:
 
-Here's a bit about me:
+Languages:
+JavaScript, HTML, CSS, SQL, Python (Beginner)
 
-🚀 About Me
+Frontend:
+React.js, Bootstrap
 
-🌱 Currently honing my skills in JavaScript, React, and modern web development frameworks.
+Backend:
+Node.js, Express.js, MongoDB, MySQL
 
-🛠 Experienced in HTML, CSS, JavaScript, React, Bootstrap, Tailwind, Git, GitHub, VSCode, XAMPP, MongoDB, Postman, Express, and API development.
+Tools:
+Git, GitHub, VSCode, XAMPP, Postman
 
-💼 Completed a Full Stack Web Developer Internship at Groot Software, working on various MERN stack projects.
+Frameworks:
+Bootstrap
 
-📚 Participating in the '100 Days of Code' challenge to continuously improve my coding skills.
-
-🌐 Building 'Shop Ease', an eCommerce project with a React.js frontend and a Vite React admin panel.
-
-💡 Enthusiast of responsive design, CSS animations, and solving algorithmic problems.
-
-🛠 Tech Stack
-
-Frontend: HTML, CSS, JavaScript, Python, React, Bootstrap, Tailwind
-
-Backend: Node.js, Express.js, MongoDB
-
-Tools: Git, GitHub, VSCode, XAMPP, Postman
-
-Other Skills: API Development, Responsive Design, CSS Animations, Java (beginner)
+Other:
+Responsive Design, API Development, DOM Manipulation, Promises, Async/Await, CSS Animations
 
 
 
-🌟 Featured Projects
+💼 Experience:
 
-Shop Ease
+Internship | Groot Software, Jaipur
 
-An eCommerce platform with a React.js frontend and Vite React admin panel. 
+January - April 2024
 
 
-Chai and Code - 30 Days of JavaScript
+Contributed to MERN stack projects, focusing on both frontend and backend development.
 
-A series of JavaScript challenges focused on control structures, functions, loops, and more.
+Utilized MongoDB, Express.js, React.js, and Node.js to implement various features and functionalities.
 
+
+Freelance Web Developer | Naksh Handicraft
+
+Ongoing
+
+
+Designing and developing a website for Naksh Handicraft, managing the entire development process from design to deployment.
+
+Technologies Used: HTML, CSS, JavaScript, React.js.
+
+
+
+🎓 Education:
+
+Bachelor of Science
+
+Seth Mohan Lal Jalan Government College, Ratangarh | 2019-2022
+
+
+
+📜 Certifications:
+
+Full Stack Web Developer (MERN)
+Groot Academy – December 2023
+
+
+
+🌟 Personal Projects:
+
+YouTube Clone
+
+Developed a backend for a YouTube-like platform for video streaming.
+
+Technologies: Node.js, Express.js, MongoDB.
+
+Weather App
+
+Created a React.js application to fetch and display real-time weather data.
+
+Technologies: React.js, Bootstrap, Weather APIs.
+
+
+
+🎯 Current Focus:
+
+Enhancing my expertise in advanced JavaScript concepts, including async/await and modules.
+
+Expanding my knowledge of SQL and MySQL for backend development.
+
+Engaging in new projects to broaden my portfolio and technical skills.
+
+
+📅 Coding Challenges:
+
+100 Days of Code
+
+I am currently participating in the "100 Days of Code" challenge, where I commit to coding every day to improve my skills and tackle new projects. This challenge has helped me stay consistent, refine my coding practices, and explore various technologies and concepts in depth.
+
+30 Days of JavaScript by Chai Code
+
+I am also working on the "30 Days of JavaScript" challenge by Chai Code, focusing on mastering JavaScript fundamentals and advanced concepts. This challenge covers a wide range of topics, including control structures, functions, promises, async/await, and more, and has been instrumental in deepening my understanding of JavaScript and enhancing my problem-solving abilities.
 
 
 
