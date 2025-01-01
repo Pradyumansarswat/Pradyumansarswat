@@ -1,17 +1,18 @@
 Hello, I'm Pradyuman Sarswat! 👋
 
-Full Stack Developer | MERN Stack Enthusiast | Open to Internships
+Full Stack Developer | MERN Stack Enthusiast | Open to Job Opportunities
 
-Welcome to my GitHub profile! I’m a Full Stack Developer based in India, passionate about building innovative and efficient web applications. With a solid foundation in the MERN stack and a keen interest in continuous learning, I’m always excited to tackle new challenges and contribute to meaningful projects.
+Welcome to my GitHub profile! I’m a Full Stack Developer based in India, passionate about building innovative and efficient web applications. With a strong foundation in the MERN stack and a commitment to continuous learning, I’m always excited to tackle new challenges and contribute to meaningful projects.
+
 
 
 🛠️ My Toolkit:
 
 Languages:
-JavaScript, HTML, CSS, SQL, Python (Beginner)
+JavaScript, HTML, CSS, Python (Beginner)
 
 Frontend:
-React.js, Bootstrap
+React.js, Bootstrap, MUI, Tailwind CSS
 
 Backend:
 Node.js, Express.js, MongoDB, MySQL
@@ -19,34 +20,32 @@ Node.js, Express.js, MongoDB, MySQL
 Tools:
 Git, GitHub, VSCode, XAMPP, Postman
 
-Frameworks:
-Bootstrap
-
 Other:
-Responsive Design, API Development, DOM Manipulation, Promises, Async/Await, CSS Animations
+Responsive Design, API Development, DOM Manipulation, Promises, Async/Await, CSS Animations, WordPress
+
+
 
 
 
 💼 Experience:
 
+Internship | IWebWiser
+
+September - December 2024
+
+Worked as a Full Stack Developer Intern, contributing to both frontend and backend development.
+
+Collaborated on multiple projects using MERN stack and integrated modern UI frameworks like MUI and Tailwind CSS.
+
+
+
 Internship | Groot Software, Jaipur
 
 January - April 2024
 
-
 Contributed to MERN stack projects, focusing on both frontend and backend development.
 
 Utilized MongoDB, Express.js, React.js, and Node.js to implement various features and functionalities.
-
-
-Freelance Web Developer | Naksh Handicraft
-
-Ongoing
-
-
-Designing and developing a website for Naksh Handicraft, managing the entire development process from design to deployment.
-
-Technologies Used: HTML, CSS, JavaScript, React.js.
 
 
 
@@ -67,17 +66,30 @@ Groot Academy – December 2023
 
 🌟 Personal Projects:
 
-YouTube Clone
 
-Developed a backend for a YouTube-like platform for video streaming.
+AcoNews App
 
-Technologies: Node.js, Express.js, MongoDB.
+Built a full-stack news application featuring search, pagination, and country-based filters.
+
+Features: Real-time news fetching, responsive design, and backend API integration.
+
+Technologies: React.js, Node.js, Express.js, MongoDB
+
+
 
 Weather App
 
 Created a React.js application to fetch and display real-time weather data.
 
 Technologies: React.js, Bootstrap, Weather APIs.
+
+
+
+E-commerce Platform
+
+Developed an e-commerce platform with user, admin, and seller panels.
+
+Technologies: React.js, Node.js, Express.js, MongoDB, Tailwind
 
 
 
@@ -88,6 +100,7 @@ Enhancing my expertise in advanced JavaScript concepts, including async/await an
 Expanding my knowledge of SQL and MySQL for backend development.
 
 Engaging in new projects to broaden my portfolio and technical skills.
+
 
 
 📅 Coding Challenges:
