@@ -12,7 +12,7 @@ Languages:
 JavaScript, HTML, CSS, Python (Beginner)
 
 Frontend:
-React.js, Bootstrap, MUI, Tailwind CSS
+React.js, Next.js, Bootstrap, MUI, Tailwind CSS
 
 Backend:
 Node.js, Express.js, MongoDB, MySQL
@@ -21,7 +21,7 @@ Tools:
 Git, GitHub, VSCode, XAMPP, Postman
 
 Other:
-Responsive Design, API Development, DOM Manipulation, Promises, Async/Await, CSS Animations, WordPress
+Responsive Design, API Development, DOM Manipulation, Promises, Async/Await, CSS Animations
 
 
 
