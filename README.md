@@ -16,25 +16,7 @@ I'm a dedicated Full Stack Developer passionate about building robust, scalable,
 
 ---
 
-## 🧑‍💻 Technologies
 
-**Languages:**  
-- JavaScript (Data Structures & Algorithms)
-- HTML, CSS
-- Python (Beginner)
-
-**Technologies & Frameworks:**  
-- Express.js, Node.js, React.js, Next.js, Redux  
-- Tailwind CSS, Bootstrap  
-- MongoDB, MySQL  
-- Firebase
-
-**Tools & Platforms:**  
-- Git, GitHub  
-- XAMPP, Postman  
-- VS Code
-
----
 
 ## 🧰 Tech Stack
 
